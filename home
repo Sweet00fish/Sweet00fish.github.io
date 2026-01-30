@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>鮎さんの部屋</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="「鮎さん」と申します。秋田県の川魚が雑多に運用するgithab Pageを使用したホームページです。">
+        <meta name="keywords" content="sweet00fish, 鮎さん">
+        <link rel="stylesheet" href="index.css">
+    </head>
+
+    <body>
+        <div id="outer">
+
+            <header>
+                <div id="header-inner"><h1>home</h1></div>
+            </header>
+
+            <div id="container">
+                <main>
+                    <div id="text">
+                        <h2>記事ページ見出し・大</h2>
+                        <p>文章あれこれ</p>
+                        <h3>記事ページ見出し・中</h3>
+                        <p>文章あれこれ</p>
+                        <h4>記事ページ見出し・小</h4>
+                        <p>文章あれこれ</p>
+                    </div>
+                </main>
+
+                <aside>
+                    <div class="side-title">menu</div>
+                    <div class="side">
+                        <ul>
+                            <li><a href="https://drive.google.com/drive/folders/1EmwZ9n4xzOROU-lwlArNEGBTNZoE2NEm?usp=sharing">MarvelRivals_Roulette</a></li>
+                            <li><a href="https://template.homepage-tukurikata.com/simple.html">お借りしたHPテンプレート</a></li>
+                            <li><a href="http://www.sitemapxml.jp/">お借りしたサイトマップ作成ツール</a></li>
+                        </ul>
+                    </div>
+                </aside>
+            </div>
+
+            <footer>© 2026 Sweet00fish</footer>
+
+        </div>
+    </body>
+</html>
